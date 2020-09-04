@@ -14,7 +14,6 @@ import android.view.animation.DecelerateInterpolator
 import androidx.annotation.Keep
 import androidx.core.animation.doOnCancel
 import androidx.core.animation.doOnEnd
-import pro.appcraft.lib.permissions.R
 import kotlin.math.atan2
 import kotlin.math.min
 import kotlin.math.pow
